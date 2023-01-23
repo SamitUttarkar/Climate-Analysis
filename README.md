@@ -11,8 +11,8 @@ Visualisation of  daily stream gauge measurements (which provide a sort of spati
 
 
 <img width="789" alt="Screenshot 2023-01-23 at 1 38 14 PM" src="https://user-images.githubusercontent.com/67644483/214053408-e8c8d5a4-abc6-4b32-b71a-1537f79f156d.png">
-**As we can observe the flow rate is quite constant over the period of time. 
-There are rare instances of extremes, such as around January 1, 1974, when we can see the flow rate reaching an all-time low, which makes it stand out.
+**As we can observe the flow rate is quite constant over the period of time.**
+**There are rare instances of extremes, such as around January 1, 1974, when we can see the flow rate reaching an all-time low, which makes it stand out.**
 
 <img width="806" alt="Screenshot 2023-01-23 at 1 41 07 PM" src="https://user-images.githubusercontent.com/67644483/214053983-895869e0-fbcb-4255-b6b0-4ef3b09afe1e.png">
 **The flow rate seems to be in a parabola shape facing upwards but the change is not considerable. 
