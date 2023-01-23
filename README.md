@@ -7,7 +7,7 @@ Visualisation of  daily stream gauge measurements (which provide a sort of spati
 # Project Results:-
 
 <img width="786" alt="Screenshot 2023-01-23 at 1 36 10 PM" src="https://user-images.githubusercontent.com/67644483/214052982-e1eb179f-70c4-44d1-b85d-8a063981f25a.png">
-**This graph visualises the flow rate's frequency. It is observed in the original scale that the graph is very Right skewed. Therefore we take the log of flow rate to visualise it better.**
+### **This graph visualises the flow rate's frequency. It is observed in the original scale that the graph is very Right skewed. Therefore we take the log of flow rate to visualise it better**
 
 
 <img width="789" alt="Screenshot 2023-01-23 at 1 38 14 PM" src="https://user-images.githubusercontent.com/67644483/214053408-e8c8d5a4-abc6-4b32-b71a-1537f79f156d.png">
